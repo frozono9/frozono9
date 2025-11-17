@@ -10,8 +10,6 @@ I’m a multidisciplinary engineer with a background in **Mechatronics and Robot
 I’ve worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing prototypes, and I design **AI-driven systems** that merge **mechanical precision** with **cognitive intelligence**.
 
 Beyond engineering, I’ve served as a **technical consultant for magicians like Dynamo and El Mago Pop**, creating interactive illusions powered by real technology.  
-I believe magic and AI share the same goal — turning the impossible into something you can experience.
-
 ---
 
 ### What I Build
@@ -34,7 +32,8 @@ I believe magic and AI share the same goal — turning the impossible into somet
 
 ### Highlights
 
-- **Grand Prize** – LleidaHACK 2024 (eCityClic AI Challenge)  
+- **Grand Prize** – LleidaHACK 2024 (eCityClic AI Challenge)
+- **Grand Prize** - FME Datathon 2025 (Mango AI Challenge)
 - **Instructables Grand Prize** – *MOTUS: Open-Source Robot Arm*  
 - **Finalist** – HackUPC 2025 (WiseBuy for Revolut Challenge)
 
