@@ -7,9 +7,7 @@
 ### About Me
 
 I’m a multidisciplinary engineer with a background in **Mechatronics and Robotics**, currently pursuing a **BSc in Artificial Intelligence Engineering** at **UPC Barcelona**.  
-I’ve worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing prototypes, and I design **AI-driven systems** that merge **mechanical precision** with **cognitive intelligence**.
-
-Beyond engineering, I’ve served as a **technical consultant for magicians like Dynamo and El Mago Pop**, creating interactive illusions powered by real technology.  
+I’ve worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing prototypes, and I design **AI-driven systems** that merge **mechanical precision** with **cognitive intelligence**. Beyond engineering, I’ve served as a **technical consultant for magicians like Dynamo and El Mago Pop**, creating interactive illusions powered by real technology.  
 ---
 
 ### What I Build
