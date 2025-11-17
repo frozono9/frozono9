@@ -35,7 +35,7 @@ I've worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing proto
 
 **Languages**
 ```
-Python • C • C++ • SQL • MATLAB
+Python • SQL
 ```
 
 **AI/ML**
