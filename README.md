@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm a multidisciplinary engineer with a background in **Mechatronics and Robotics**, currently pursuing a **BSc in Artificial Intelligence Engineering** at **UPC Barcelona**.
+Multidisciplinary engineer with a background in **Mechatronics and Robotics**, currently pursuing a **BSc in Artificial Intelligence Engineering** at **UPC Barcelona**.
 
-I've worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing prototypes, and I design **AI-driven systems** that combine **mechanical precision** with **cognitive intelligence**.
+Worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing prototypes. Designing **AI-driven systems** that combine **mechanical precision** with **cognitive intelligence**.
 
 ---
 
@@ -45,7 +45,7 @@ PyTorch • TensorFlow • Scikit-learn • Keras
 
 **Mechanical Design**
 ```
-Fusion 360 • SolidWorks • Creo • Rhino
+Fusion 360 • SolidWorks • PTC Creo
 ```
 
 **Other**
