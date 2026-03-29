@@ -27,7 +27,7 @@ Worked at **Sony AI (Zurich & Tokyo)** developing robotic and sensing prototypes
 - **Robotic Systems** – Modular 6-DOF arms, motion control, mechatronic prototypes
 - **AI Applications** – Computer vision, NLP, recommendation systems, predictive modeling
 - **Intelligent Interfaces** – Browser extensions, assistants, and interactive visual tools
-- **Illusion Tech** – Real mechanisms and AI effects for stage and digital magic
+- **Magic Design and Development** – Real mechanisms and AI effects for stage and digital magic
 
 ---
 
